@@ -1,0 +1,20 @@
+{
+  "pipeline": [
+    {
+      "type": "readers.las",
+      "filename": "input.las"
+    },
+    {
+      "type": "filters.colorization",
+      "dimension": "Intensity",
+      "gradient": "viridis",
+      "min": 0,
+      "max": 65535
+    },
+    {
+      "type": "writers.las",
+      "filename": "output_colored.las",
+      "extra_dims": "all"
+    }
+  ]
+}
