@@ -118,7 +118,7 @@ Yaw (рыскание) = 0° (ось сканирования совпадает
 
 ## Стек технологий
 
-1. Основное ПО:  ROS Noetic (Фреймворк для SLAM и управления дроном); LIO-SLAM (SLAM-алгоритм для LiDAR+IMU); Livox SDK (Драйверы и API для Livox Mid-360); DJI Onboard SDK (Управление дроном Matrice 350); CloudCompare (Визуализация и фильтрация облаков точек).
+1. Основное ПО:  ROS Noetic (Фреймворк для SLAM и управления дроном); LIO-SLAM (SLAM-алгоритм для LiDAR+IMU); Livox SDK (Драйверы и API для Livox Mid-360); DJI Onboard SDK (Управление дроном Matrice 350); CloudCompare (Визуализация и фильтрация облаков точек); DJI Pilot 2 (правление дроном и мониторинг полета); Livox Viewer (Контроль работы LiDAR Mid-360).
 
 2. Дополнительное ПО: DJI Terra (Постобработка данных LiDAR);  PDAL (Фильтрация облаков точек); QGroundControl (Планирование миссий)
 
