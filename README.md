@@ -125,3 +125,7 @@ Yaw (рыскание) = 0° (ось сканирования совпадает
 3.  ROS-пакеты: ros-noetic-lio-sam (SLAM-алгоритм); ros-noetic-livox-ros-driver (Драйвер Livox :cite[2]); ros-noetic-octomap (3D-картирование); ros-noetic-rviz (Визуализация); ros-noetic-tf2 (Система координат).
 
 4. Python-библиотеки: laspy (Чтение/запись .las/.laz :cite[4]);  open3d (3D-обработка облаков точек);  numpy as np (Матричные операции);  rospy (ROS-интерфейс);  PoseStamped (Трансляция позиции); KDTree (Кластеризация точек)
+
+# Демонстрация работы БПЛА с LiDAR
+
+https://youtu.be/OoRIUUohM_4
