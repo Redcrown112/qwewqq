@@ -140,13 +140,14 @@ Yaw (рыскание) = 0° (ось сканирования совпадает
 
 # Демонстрация работы БПЛА с LiDAR
 
-https://youtu.be/OoRIUUohM_4
+https://drive.google.com/file/d/1Ulv1zLla6q5G7-qz1UNxEDjdB0LCMMxC/view?usp=sharing
 
 # Презентация
 
-.
+https://docs.google.com/presentation/d/179wo1FHHBWx_euQOTsGesmUZ4pIS7Ydj/edit?usp=sharing&ouid=100279634131572117851&rtpof=true&sd=true
 
 # Проект разработали
 
 Данилов Иван Васильевич (МД-22-1)
+
 Соболенко Станислав Владимирович (МД-22-1)
